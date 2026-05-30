@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80">
+  <!-- PT Lung Cheong Brothers Industrial - toy manufacturer Serang -->
+  <!-- Warna biru industri -->
+  <rect x="0" y="10" width="56" height="56" rx="6" fill="#1565C0"/>
+  <text x="28" y="34" font-family="Arial Black, Arial, sans-serif" font-size="13" font-weight="900" fill="white" text-anchor="middle">LUNG</text>
+  <text x="28" y="52" font-family="Arial Black, Arial, sans-serif" font-size="13" font-weight="900" fill="#FFD600" text-anchor="middle">CHEONG</text>
+  <!-- Teks label -->
+  <text x="68" y="28" font-family="Arial, sans-serif" font-size="9" fill="#888">PT</text>
+  <text x="68" y="45" font-family="Arial Black, Arial, sans-serif" font-size="13" fill="#1565C0" font-weight="900">Lung Cheong</text>
+  <text x="68" y="61" font-family="Arial, sans-serif" font-size="9" fill="#555">Brothers Industrial</text>
+</svg>

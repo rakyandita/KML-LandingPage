@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 80" width="220" height="80">
+  <!-- PT Trio Omzet Perkasasindo - industri daur ulang kertas -->
+  <circle cx="36" cy="40" r="30" fill="#2E7D32"/>
+  <!-- Ikon 3 panah daur ulang sederhana -->
+  <text x="36" y="48" font-family="Arial, sans-serif" font-size="24" fill="white" text-anchor="middle">♻</text>
+  <!-- Teks -->
+  <text x="78" y="28" font-family="Arial, sans-serif" font-size="9" fill="#888">PT</text>
+  <text x="78" y="44" font-family="Arial Black, Arial, sans-serif" font-size="12" fill="#2E7D32" font-weight="900">Trio Omzet</text>
+  <text x="78" y="60" font-family="Arial, sans-serif" font-size="9.5" fill="#555">Perkasasindo</text>
+</svg>
